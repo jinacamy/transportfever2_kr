@@ -2759,7 +2759,7 @@ msgid "Paint tools"
 msgstr "페인트 툴"
 
 msgid "Passenger"
-msgstr "객차"
+msgstr "승객용"
 
 msgid "Passenger stations"
 msgstr "여객역"
