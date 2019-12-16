@@ -3591,7 +3591,7 @@ msgid "Speed: 4x"
 msgstr "속도:4배"
 
 msgid "Start"
-msgstr "시작"
+msgstr "출발"
 
 msgid "Start a new game"
 msgstr "새로운 게임 시작"
