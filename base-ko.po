@@ -2253,7 +2253,7 @@ msgid "Load the map"
 msgstr "맵을 로드"
 
 msgid "Loaded"
-msgstr "하적 완료"
+msgstr "하차 완료"
 
 msgid "Loading order, click to change"
 msgstr "로드할 차례, 클릭해서 변경"
@@ -4054,7 +4054,7 @@ msgid "Unload only"
 msgstr "하역만"
 
 msgid "Unloaded"
-msgstr "짐 다 쌌다"
+msgstr "상차 완료"
 
 msgid "Unsubscribe"
 msgstr "구독 해제"
