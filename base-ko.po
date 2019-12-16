@@ -339,22 +339,22 @@ msgid "%d point(s) for company value"
 msgstr "기업 가치에 %d 포인트"
 
 msgid "%d point(s) for having more than 10 trains"
-msgstr "열차를 10대 이상 소지하면서%d포인트"
+msgstr "열차를 10대 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 100 road vehicles"
-msgstr "도로 운송 차량을 100대 이상 소지하면서%d포인트"
+msgstr "도로 운송 차량을 100대 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 20 trams"
-msgstr "트램을 20척 이상 소지하면서%d포인트"
+msgstr "노면전차를 20척 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 5 aircraft"
-msgstr "비행기를 5대 이상 소지하면서%d포인트"
+msgstr "항공기를 5대 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for having more than 5 ships"
-msgstr "배를 5척 이상 소지하면서%d포인트"
+msgstr "배를 5척 이상 소지하면 %d포인트"
 
 msgid "%d point(s) for maximum vehicle age"
-msgstr "가장 오래된 차량으로 %d포인트"
+msgstr "가장 오래된 차량은 %d포인트"
 
 msgid "%s overlength: travel time is %d s, %d s allowed!"
 msgstr "%s의 길이가 과잉: 이동 시간은 %d초, %d초가 허용되어 있습니다!"
@@ -483,7 +483,7 @@ msgid ""
 "A path has been found, but only small aircraft are allowed on this path. "
 "Consider using small aircraft or large airports."
 msgstr ""
-"경로를 찾았지만, 여기에 넣을 수 있는 것은 소형 비행기뿐입니다. 소형 비행기로 선택"
+"경로를 찾았지만, 여기에 넣을 수 있는 것은 소형 항공기뿐입니다. 소형 항공기로 선택"
 "하거나, 큰 공항을 사용합시다."
 
 msgid ""
@@ -4382,7 +4382,7 @@ msgstr "짧게"
 
 msgctxt "plural"
 msgid "Aircraft"
-msgstr "비행기"
+msgstr "항공기"
 
 msgctxt "power-unit"
 msgid "hp"
