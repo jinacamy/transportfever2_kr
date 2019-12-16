@@ -14506,7 +14506,7 @@ msgstr "All America Golden Sand"
 msgid "VEHICLE_WAGGON_GONDOLA_1850_DESCRIPTION"
 msgstr ""
 "이런 타입의 초기 화차는 석탄 수송을 목적으로 만들어졌습니다. \"곤돌라\"의 이"
-"름은 석탄이 이전에는 소형 배에 실려 운하를 사용하여 수송되던 사실을 따릅니"
+"름은 석탄이 이전에는 소형 배에 실려 운하를 사용하여 수송되한 곤돌라에 유례되었습니"
 "다."
 
 msgid "VEHICLE_WAGGON_GONDOLA_1850_NAME"
